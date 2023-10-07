@@ -8,3 +8,5 @@ The world of UwUmpus está basado en el mundo de Wumpus es un juego de aventura 
 * Pozo: Un agujero que el jugador cae si se encuentra en la misma habitación que él.
 
 El objetivo del juego es que el jugador encuentre el oro y salga de la cueva sin ser atacado por el Wumpus o caer en un pozo.
+
+## The World of UwUmpus v1.0.0
