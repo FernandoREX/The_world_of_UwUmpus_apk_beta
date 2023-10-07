@@ -10,3 +10,9 @@ The world of UwUmpus está basado en el mundo de Wumpus es un juego de aventura 
 El objetivo del juego es que el jugador encuentre el oro y salga de la cueva sin ser atacado por el Wumpus o caer en un pozo.
 
 ## The World of UwUmpus v1.0.0
+
+Esta adaptación del juego El mundo de Wumpus está basada para dispositivos Android, cambia algunos de los aspectos del juego original. 
+
+### Narrativa.
+    
+    En esta versión se tiene una historia introductoria 
