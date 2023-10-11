@@ -16,3 +16,7 @@ Esta adaptación del juego El mundo de Wumpus está basada para dispositivos And
 ### Narrativa.
     
 En esta versión se presenta una historia introductoria, con el fin de dar coherencia a la razón por la que iremos a una mazmorra, además de darle un sentido a la razón por la que estamos buscando el oro.
+
+### Mecánicas
+
+Lo que se busca principalmente en este juego es que sea más ágil y mucho más desafiante. Esto lo hicimos modificando el aspecto de los controles y cómo te puedes desplazar por el mapa, pero manteniendo las reglas básicas y las mecánicas principales del juego original. 
