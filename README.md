@@ -21,12 +21,12 @@ En esta versión se presenta una historia introductoria, con el fin de dar coher
 
 Lo que se busca principalmente en este juego es que sea más ágil y mucho más desafiante. Esto lo hicimos modificando el aspecto de los controles y cómo te puedes desplazar por el mapa, pero manteniendo las reglas básicas y las mecánicas principales del juego original. 
 
-## Notaciones
+## Notas para futuras actualizaciones.
 
-Actualmente se esta mejorando:
+Actualmente se está mejorando:
 
-* El arte del juego de forma que se más representativo y que este tenga la mejor calidad gráfica posible.
+* El arte del juego para que sea más representativo y tenga la mejor calidad gráfica posible.
 
-* Se está trabajando en la implementación de música más acordé a el juego.
+* Se está trabajando en la implementación de música más acorde al juego.
 
 * Estamos tratando de resolver algunos bugs y mejorar la interfaz gráfica.
