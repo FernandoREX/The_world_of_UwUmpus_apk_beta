@@ -23,4 +23,10 @@ Lo que se busca principalmente en este juego es que sea más ágil y mucho más 
 
 ## Notaciones
 
-Actualmente se esta mejorando el arte del juego de forma que se más representativo y que este tenga la mejor calidad gráfica posible, a su vez se está trabajando en la implementación de música más acordé a el juego y estamos tratando de resolver algunos bugs y mejorar la interfaz gráfica 
+Actualmente se esta mejorando:
+
+* El arte del juego de forma que se más representativo y que este tenga la mejor calidad gráfica posible.
+
+* Se está trabajando en la implementación de música más acordé a el juego.
+
+* Estamos tratando de resolver algunos bugs y mejorar la interfaz gráfica.
