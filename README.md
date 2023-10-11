@@ -20,3 +20,7 @@ En esta versión se presenta una historia introductoria, con el fin de dar coher
 ### Mecánicas
 
 Lo que se busca principalmente en este juego es que sea más ágil y mucho más desafiante. Esto lo hicimos modificando el aspecto de los controles y cómo te puedes desplazar por el mapa, pero manteniendo las reglas básicas y las mecánicas principales del juego original. 
+
+## Notaciones
+
+Actualmente se esta mejorando el arte del juego de forma que se más representativo y que este tenga la mejor calidad gráfica posible, a su vez se está trabajando en la implementación de música más acordé a el juego y estamos tratando de resolver algunos bugs y mejorar la interfaz gráfica 
