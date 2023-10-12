@@ -30,3 +30,13 @@ Actualmente se está mejorando:
 * Se está trabajando en la implementación de música más acorde al juego.
 
 * Estamos tratando de resolver algunos bugs y mejorar la interfaz gráfica.
+
+## Mecanicas originales del juego "el mundo de Wumpus"
+Este juego toma de base estas reglas del juego original.
+* **Movimiento del Jugador:** El jugador puede moverse de una habitación a otra en el laberinto. Los movimientos suelen ser limitados a las habitaciones adyacentes. Por ejemplo, si estás en una habitación, generalmente puedes moverte a una habitación vecina si hay un pasaje que conecta ambas habitaciones.
+
+* **Comandos de Movimiento:** El jugador emite comandos de movimiento utilizando una serie de comandos o instrucciones específicas. Los comandos comunes suelen incluir "avanzar" o "ir" en una dirección específica, como "avanzar al norte" o "ir al este".
+
+* **Exploración:** El jugador explora el laberinto moviéndose de habitación en habitación. Al hacerlo, recopila pistas basadas en percepciones sensoriales (como sentir una brisa o percibir un hedor) que indican la proximidad de pozos o el Wumpus.
+
+* **Movimiento Estratégico:** Los jugadores deben planificar sus movimientos con cuidado para evitar caer en pozos mortales y para acercarse al Wumpus de manera segura. A medida que recopilan pistas y deducen la ubicación del Wumpus, pueden decidir cómo moverse y cuándo disparar flechas.
