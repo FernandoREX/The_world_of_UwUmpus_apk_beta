@@ -1,42 +1,43 @@
-# The_world_of_UwUmpus_apk_beta
-The world of UwUmpus está basado en el mundo de Wumpus es un juego de aventura de tipo lógico y deberinto, creado por Gregory Yob en 1972. El juego se desarrolla en una cueva compuesta por un conjunto de habitaciones conectadas entre sí por pasadizos. En cada habitación puede haber una de las siguientes tres cosas:
+# The World of UwUmpus (APK Beta) 🎮
 
-* Wumpus: Un monstruo que ataca al jugador si se encuentra en la misma habitación que él.
+¡Bienvenido al emocionante mundo de UwUmpus! Este juego se basa en el clásico "Mundo de Wumpus", un juego de aventura y lógica creado por Gregory Yob en 1972. 🌟
 
-* Oro: Un tesoro que el jugador debe encontrar.
+En The World of UwUmpus, te aventurarás en una misteriosa cueva repleta de desafíos. Explora habitaciones interconectadas en busca de tesoros, mientras te mantienes alejado del temible Wumpus y los traideros pozos. 🕵️‍♂️💰
 
-* Pozo: Un agujero que el jugador cae si se encuentra en la misma habitación que él.
+## The World of UwUmpus v1.0.0 🚀
 
-El objetivo del juego es que el jugador encuentre el oro y salga de la cueva sin ser atacado por el Wumpus o caer en un pozo.
+Esta versión del juego, adaptada para dispositivos Android, introduce algunas novedades con respecto al juego original.
 
-## The World of UwUmpus v1.0.0
+### Narrativa 📜
 
-Esta adaptación del juego El mundo de Wumpus está basada para dispositivos Android, cambia algunos de los aspectos del juego original. 
+Hemos agregado una intrigante historia introductoria que da contexto a tu aventura. Ahora, tu misión en la mazmorra tiene un propósito claro, ¡encontrar el oro es crucial! 💎
 
-### Narrativa.
-    
-En esta versión se presenta una historia introductoria, con el fin de dar coherencia a la razón por la que iremos a una mazmorra, además de darle un sentido a la razón por la que estamos buscando el oro.
+### Mecánicas 🎯
 
-### Mecánicas
+Nos hemos esforzado por hacer que el juego sea más ágil y desafiante. Hemos renovado los controles y la forma en que te desplazas por el mapa, sin perder de vista las reglas fundamentales del juego original. ¡Prepárate para una experiencia emocionante! 🕹️
 
-Lo que se busca principalmente en este juego es que sea más ágil y mucho más desafiante. Esto lo hicimos modificando el aspecto de los controles y cómo te puedes desplazar por el mapa, pero manteniendo las reglas básicas y las mecánicas principales del juego original. 
+## Próximas Actualizaciones 🛠️
 
-## Notas para futuras actualizaciones.
+Estamos trabajando arduamente para ofrecerte una experiencia aún mejor:
 
-Actualmente se está mejorando:
+* Estamos mejorando el arte del juego para brindarte gráficos de alta calidad y una representación visual impresionante. 🎨
 
-* El arte del juego para que sea más representativo y tenga la mejor calidad gráfica posible.
+* Estamos incorporando una banda sonora temática para que la aventura sea aún más inmersiva. 🎶
 
-* Se está trabajando en la implementación de música más acorde al juego.
+* Nos ocupamos de solucionar bugs y mejoramos la interfaz gráfica para garantizar una experiencia sin problemas. 🐞🖥️
 
-* Estamos tratando de resolver algunos bugs y mejorar la interfaz gráfica.
+## Mecánicas Originales del Juego "El Mundo de Wumpus" 🎲
 
-## Mecanicas originales del juego "el mundo de Wumpus"
-Este juego toma de base estas reglas del juego original.
-* **Movimiento del Jugador:** El jugador puede moverse de una habitación a otra en el laberinto. Los movimientos suelen ser limitados a las habitaciones adyacentes. Por ejemplo, si estás en una habitación, generalmente puedes moverte a una habitación vecina si hay un pasaje que conecta ambas habitaciones.
+Este juego se basa en las reglas del juego original "El Mundo de Wumpus", manteniendo su esencia:
 
-* **Comandos de Movimiento:** El jugador emite comandos de movimiento utilizando una serie de comandos o instrucciones específicas. Los comandos comunes suelen incluir "avanzar" o "ir" en una dirección específica, como "avanzar al norte" o "ir al este".
+* **Movimiento del Jugador:** Explora el laberinto moviéndote de una habitación a otra, siguiendo pasajes y atajos. 🚶
 
-* **Exploración:** El jugador explora el laberinto moviéndose de habitación en habitación. Al hacerlo, recopila pistas basadas en percepciones sensoriales (como sentir una brisa o percibir un hedor) que indican la proximidad de pozos o el Wumpus.
+* **Comandos de Movimiento:** Utiliza comandos específicos para moverte en dirección norte, sur, este u oeste. 🧭
 
-* **Movimiento Estratégico:** Los jugadores deben planificar sus movimientos con cuidado para evitar caer en pozos mortales y para acercarse al Wumpus de manera segura. A medida que recopilan pistas y deducen la ubicación del Wumpus, pueden decidir cómo moverse y cuándo disparar flechas.
+* **Exploración:** Recopila pistas a través de tus percepciones, como sentir una brisa o percibir un hedor, para evitar trampas mortales y encontrar al Wumpus. 🕵️‍♀️
+
+* **Movimiento Estratégico:** Planifica tus movimientos con inteligencia para evitar caer en pozos mortales y enfrentar al Wumpus con valentía. 🗺️🎯
+
+## Descarga el APK del juego
+
+¡[Descarga el APK del juego](UWUMPU.apk) y prepárate para la aventura! 📲🔥
