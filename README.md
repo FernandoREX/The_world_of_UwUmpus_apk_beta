@@ -40,4 +40,4 @@ Este juego se basa en las reglas del juego original "El Mundo de Wumpus", manten
 
 ## Descarga el APK del juego
 
-¡[Descarga el APK del juego]([UWUMPU.apk](https://github.com/FernandoREX/The_world_of_UwUmpus_apk_beta/raw/main/UWUMPU.apk)https://github.com/FernandoREX/The_world_of_UwUmpus_apk_beta/raw/main/UWUMPU.apk) y prepárate para la aventura! 📲🔥
+¡[Descarga el APK del juego](https://github.com/FernandoREX/The_world_of_UwUmpus_apk_beta/raw/main/UWUMPU.apk) y prepárate para la aventura! 📲🔥
